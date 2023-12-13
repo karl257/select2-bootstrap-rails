@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # select2-bootstrap-rails
 Integrate Select2 and Select2 Bootstrap 5 Theme  with the Rails asset pipeline.
 =======
@@ -84,4 +83,3 @@ If you want to contribute, please:
 ## License
 
 Selec2-Rails is released under the [MIT License](http://www.opensource.org/licenses/MIT).
->>>>>>> 3d07482 (Initial commit)
