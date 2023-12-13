@@ -1,7 +1,4 @@
 # select2-bootstrap-rails
-Integrate Select2 and Select2 Bootstrap 5 Theme  with the Rails asset pipeline.
-=======
-# Select2 with Bootstrap 5 theme for rails asset pipeline
 
 [Select2](https://github.com/select2/select2) is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 
