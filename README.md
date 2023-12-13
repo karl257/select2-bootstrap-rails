@@ -1,4 +1,5 @@
 # select2-bootstrap-rails
+[![Gem Version](https://badge.fury.io/rb/select2-bootstrap-rails.svg)](https://badge.fury.io/rb/select2-bootstrap-rails)
 
 [Select2](https://github.com/select2/select2) is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
 
